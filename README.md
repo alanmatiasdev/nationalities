@@ -3,7 +3,7 @@
 API pública, estática e agressivamente cacheável de **países, códigos ISO e
 nacionalidades/gentílicos em português do Brasil**.
 
-Feita para resolver a nacionalidade de um país, buscar país por código ISO e 
+Feita para resolver a nacionalidade de um país, buscar país por código ISO e
 consumir o dataset inteiro como JSON estático.
 
 - **Stack:** TypeScript · Cloudflare Workers · Hono · Wrangler · Vitest
