@@ -3,7 +3,7 @@
   "name": "nationalities",
   "main": "src/index.ts",
   "compatibility_date": "2024-12-05",
-  "workers_dev": true,
+  "workers_dev": false,
   "routes": [
     {
       "pattern": "data.enyx.com.br",
