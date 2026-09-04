@@ -39,6 +39,9 @@ As mensagens de commit **precisam** seguir
 Enquanto a versão for `0.x`, `feat` incrementa o patch e breaking changes
 incrementam o minor.
 
+O deploy é automático ao mergear o PR de release — detalhes em
+[`OPERATIONS.md`](./OPERATIONS.md).
+
 ## Editando o dataset
 
 - **Nunca** edite `data/nationalities.json`, `data/upstream/*` ou

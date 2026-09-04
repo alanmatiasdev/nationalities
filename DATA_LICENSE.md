@@ -25,7 +25,8 @@ esse banco derivado é distribuído sob a **ODbL v1.0**.
 
 ## Suas obrigações ao usar o dataset
 
-1. **Atribuição** — credite `mledoze/countries` e este projeto.
+1. **Atribuição** — credite `mledoze/countries` e a Nationalities API
+   (`https://data.enyx.com.br`).
 2. **Share-alike** — se você distribuir publicamente uma versão adaptada do
    banco de dados, licencie-a sob a ODbL.
 3. **Keep open** — se você distribuir o banco (ou um derivado) com medidas
