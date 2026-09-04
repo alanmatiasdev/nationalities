@@ -1,0 +1,214 @@
+{
+  "__meta": {
+    "description": "Camada editorial brasileira: nomes de país e gentílicos (masculino/feminino) em português do Brasil. Prevalece sobre as traduções do dataset upstream (mledoze/countries). Registros ausentes aqui recebem seed automático (nome pt-BR do upstream + gentílicos vazios + needs_review) durante o build. Ver DATA_SOURCES.md.",
+    "sources": ["FUNAG", "Ministério das Relações Exteriores (Itamaraty)", "IBGE"]
+  },
+  "BR": { "country": "Brasil", "nationality": { "male": "brasileiro", "female": "brasileira" } },
+  "AR": { "country": "Argentina", "nationality": { "male": "argentino", "female": "argentina" } },
+  "BO": { "country": "Bolívia", "nationality": { "male": "boliviano", "female": "boliviana" } },
+  "CL": { "country": "Chile", "nationality": { "male": "chileno", "female": "chilena" } },
+  "CO": { "country": "Colômbia", "nationality": { "male": "colombiano", "female": "colombiana" } },
+  "EC": { "country": "Equador", "nationality": { "male": "equatoriano", "female": "equatoriana" } },
+  "GY": { "country": "Guiana", "nationality": { "male": "guianense", "female": "guianense" } },
+  "PY": { "country": "Paraguai", "nationality": { "male": "paraguaio", "female": "paraguaia" } },
+  "PE": { "country": "Peru", "nationality": { "male": "peruano", "female": "peruana" } },
+  "SR": { "country": "Suriname", "nationality": { "male": "surinamês", "female": "surinamesa" } },
+  "UY": { "country": "Uruguai", "nationality": { "male": "uruguaio", "female": "uruguaia" } },
+  "VE": {
+    "country": "Venezuela",
+    "nationality": { "male": "venezuelano", "female": "venezuelana" }
+  },
+  "US": {
+    "country": "Estados Unidos",
+    "nationality": { "male": "norte-americano", "female": "norte-americana" }
+  },
+  "CA": { "country": "Canadá", "nationality": { "male": "canadense", "female": "canadense" } },
+  "MX": { "country": "México", "nationality": { "male": "mexicano", "female": "mexicana" } },
+  "CR": {
+    "country": "Costa Rica",
+    "nationality": { "male": "costarriquenho", "female": "costarriquenha" }
+  },
+  "CU": { "country": "Cuba", "nationality": { "male": "cubano", "female": "cubana" } },
+  "DO": {
+    "country": "República Dominicana",
+    "nationality": { "male": "dominicano", "female": "dominicana" }
+  },
+  "SV": {
+    "country": "El Salvador",
+    "nationality": { "male": "salvadorenho", "female": "salvadorenha" }
+  },
+  "GT": {
+    "country": "Guatemala",
+    "nationality": { "male": "guatemalteco", "female": "guatemalteca" }
+  },
+  "HT": { "country": "Haiti", "nationality": { "male": "haitiano", "female": "haitiana" } },
+  "HN": { "country": "Honduras", "nationality": { "male": "hondurenho", "female": "hondurenha" } },
+  "JM": { "country": "Jamaica", "nationality": { "male": "jamaicano", "female": "jamaicana" } },
+  "NI": {
+    "country": "Nicarágua",
+    "nationality": { "male": "nicaraguense", "female": "nicaraguense" }
+  },
+  "PA": { "country": "Panamá", "nationality": { "male": "panamenho", "female": "panamenha" } },
+  "BZ": { "country": "Belize", "nationality": { "male": "belizenho", "female": "belizenha" } },
+  "PT": { "country": "Portugal", "nationality": { "male": "português", "female": "portuguesa" } },
+  "ES": { "country": "Espanha", "nationality": { "male": "espanhol", "female": "espanhola" } },
+  "FR": { "country": "França", "nationality": { "male": "francês", "female": "francesa" } },
+  "DE": { "country": "Alemanha", "nationality": { "male": "alemão", "female": "alemã" } },
+  "IT": { "country": "Itália", "nationality": { "male": "italiano", "female": "italiana" } },
+  "GB": { "country": "Reino Unido", "nationality": { "male": "britânico", "female": "britânica" } },
+  "IE": { "country": "Irlanda", "nationality": { "male": "irlandês", "female": "irlandesa" } },
+  "NL": {
+    "country": "Países Baixos",
+    "nationality": { "male": "neerlandês", "female": "neerlandesa" }
+  },
+  "BE": { "country": "Bélgica", "nationality": { "male": "belga", "female": "belga" } },
+  "LU": {
+    "country": "Luxemburgo",
+    "nationality": { "male": "luxemburguês", "female": "luxemburguesa" }
+  },
+  "CH": { "country": "Suíça", "nationality": { "male": "suíço", "female": "suíça" } },
+  "AT": { "country": "Áustria", "nationality": { "male": "austríaco", "female": "austríaca" } },
+  "SE": { "country": "Suécia", "nationality": { "male": "sueco", "female": "sueca" } },
+  "NO": { "country": "Noruega", "nationality": { "male": "norueguês", "female": "norueguesa" } },
+  "DK": {
+    "country": "Dinamarca",
+    "nationality": { "male": "dinamarquês", "female": "dinamarquesa" }
+  },
+  "FI": { "country": "Finlândia", "nationality": { "male": "finlandês", "female": "finlandesa" } },
+  "IS": { "country": "Islândia", "nationality": { "male": "islandês", "female": "islandesa" } },
+  "PL": { "country": "Polônia", "nationality": { "male": "polonês", "female": "polonesa" } },
+  "CZ": { "country": "Tchéquia", "nationality": { "male": "tcheco", "female": "tcheca" } },
+  "SK": { "country": "Eslováquia", "nationality": { "male": "eslovaco", "female": "eslovaca" } },
+  "HU": { "country": "Hungria", "nationality": { "male": "húngaro", "female": "húngara" } },
+  "RO": { "country": "Romênia", "nationality": { "male": "romeno", "female": "romena" } },
+  "BG": { "country": "Bulgária", "nationality": { "male": "búlgaro", "female": "búlgara" } },
+  "GR": { "country": "Grécia", "nationality": { "male": "grego", "female": "grega" } },
+  "HR": { "country": "Croácia", "nationality": { "male": "croata", "female": "croata" } },
+  "SI": { "country": "Eslovênia", "nationality": { "male": "esloveno", "female": "eslovena" } },
+  "RS": { "country": "Sérvia", "nationality": { "male": "sérvio", "female": "sérvia" } },
+  "AL": { "country": "Albânia", "nationality": { "male": "albanês", "female": "albanesa" } },
+  "EE": { "country": "Estônia", "nationality": { "male": "estoniano", "female": "estoniana" } },
+  "LV": { "country": "Letônia", "nationality": { "male": "letão", "female": "letã" } },
+  "LT": { "country": "Lituânia", "nationality": { "male": "lituano", "female": "lituana" } },
+  "UA": { "country": "Ucrânia", "nationality": { "male": "ucraniano", "female": "ucraniana" } },
+  "RU": { "country": "Rússia", "nationality": { "male": "russo", "female": "russa" } },
+  "CY": { "country": "Chipre", "nationality": { "male": "cipriota", "female": "cipriota" } },
+  "MT": { "country": "Malta", "nationality": { "male": "maltês", "female": "maltesa" } },
+  "TR": { "country": "Turquia", "nationality": { "male": "turco", "female": "turca" } },
+  "JP": { "country": "Japão", "nationality": { "male": "japonês", "female": "japonesa" } },
+  "CN": { "country": "China", "nationality": { "male": "chinês", "female": "chinesa" } },
+  "KR": {
+    "country": "Coreia do Sul",
+    "nationality": { "male": "sul-coreano", "female": "sul-coreana" }
+  },
+  "KP": {
+    "country": "Coreia do Norte",
+    "nationality": { "male": "norte-coreano", "female": "norte-coreana" }
+  },
+  "IN": { "country": "Índia", "nationality": { "male": "indiano", "female": "indiana" } },
+  "PK": {
+    "country": "Paquistão",
+    "nationality": { "male": "paquistanês", "female": "paquistanesa" }
+  },
+  "BD": { "country": "Bangladesh", "nationality": { "male": "bengali", "female": "bengali" } },
+  "LK": { "country": "Sri Lanka", "nationality": { "male": "cingalês", "female": "cingalesa" } },
+  "ID": { "country": "Indonésia", "nationality": { "male": "indonésio", "female": "indonésia" } },
+  "MY": { "country": "Malásia", "nationality": { "male": "malaio", "female": "malaia" } },
+  "SG": {
+    "country": "Singapura",
+    "nationality": { "male": "singapuriano", "female": "singapuriana" }
+  },
+  "TH": { "country": "Tailândia", "nationality": { "male": "tailandês", "female": "tailandesa" } },
+  "VN": { "country": "Vietnã", "nationality": { "male": "vietnamita", "female": "vietnamita" } },
+  "PH": { "country": "Filipinas", "nationality": { "male": "filipino", "female": "filipina" } },
+  "IR": { "country": "Irã", "nationality": { "male": "iraniano", "female": "iraniana" } },
+  "IQ": { "country": "Iraque", "nationality": { "male": "iraquiano", "female": "iraquiana" } },
+  "IL": { "country": "Israel", "nationality": { "male": "israelense", "female": "israelense" } },
+  "SY": { "country": "Síria", "nationality": { "male": "sírio", "female": "síria" } },
+  "LB": { "country": "Líbano", "nationality": { "male": "libanês", "female": "libanesa" } },
+  "JO": { "country": "Jordânia", "nationality": { "male": "jordaniano", "female": "jordaniana" } },
+  "SA": { "country": "Arábia Saudita", "nationality": { "male": "saudita", "female": "saudita" } },
+  "AE": {
+    "country": "Emirados Árabes Unidos",
+    "nationality": { "male": "emiradense", "female": "emiradense" }
+  },
+  "EG": { "country": "Egito", "nationality": { "male": "egípcio", "female": "egípcia" } },
+  "MA": { "country": "Marrocos", "nationality": { "male": "marroquino", "female": "marroquina" } },
+  "DZ": { "country": "Argélia", "nationality": { "male": "argelino", "female": "argelina" } },
+  "TN": { "country": "Tunísia", "nationality": { "male": "tunisiano", "female": "tunisiana" } },
+  "NG": { "country": "Nigéria", "nationality": { "male": "nigeriano", "female": "nigeriana" } },
+  "GH": { "country": "Gana", "nationality": { "male": "ganês", "female": "ganesa" } },
+  "SN": { "country": "Senegal", "nationality": { "male": "senegalês", "female": "senegalesa" } },
+  "CI": {
+    "country": "Costa do Marfim",
+    "nationality": { "male": "marfinense", "female": "marfinense" }
+  },
+  "CM": { "country": "Camarões", "nationality": { "male": "camaronês", "female": "camaronesa" } },
+  "KE": { "country": "Quênia", "nationality": { "male": "queniano", "female": "queniana" } },
+  "ET": { "country": "Etiópia", "nationality": { "male": "etíope", "female": "etíope" } },
+  "TZ": { "country": "Tanzânia", "nationality": { "male": "tanzaniano", "female": "tanzaniana" } },
+  "UG": { "country": "Uganda", "nationality": { "male": "ugandense", "female": "ugandense" } },
+  "ZA": {
+    "country": "África do Sul",
+    "nationality": { "male": "sul-africano", "female": "sul-africana" }
+  },
+  "ZW": { "country": "Zimbábue", "nationality": { "male": "zimbabuano", "female": "zimbabuana" } },
+  "ZM": { "country": "Zâmbia", "nationality": { "male": "zambiano", "female": "zambiana" } },
+  "AO": { "country": "Angola", "nationality": { "male": "angolano", "female": "angolana" } },
+  "MZ": {
+    "country": "Moçambique",
+    "nationality": { "male": "moçambicano", "female": "moçambicana" }
+  },
+  "CV": {
+    "country": "Cabo Verde",
+    "nationality": { "male": "cabo-verdiano", "female": "cabo-verdiana" }
+  },
+  "GW": {
+    "country": "Guiné-Bissau",
+    "nationality": { "male": "guineense", "female": "guineense" }
+  },
+  "ST": {
+    "country": "São Tomé e Príncipe",
+    "nationality": { "male": "santomense", "female": "santomense" }
+  },
+  "CD": {
+    "country": "República Democrática do Congo",
+    "nationality": { "male": "congolês", "female": "congolesa" }
+  },
+  "AU": {
+    "country": "Austrália",
+    "nationality": { "male": "australiano", "female": "australiana" }
+  },
+  "NZ": {
+    "country": "Nova Zelândia",
+    "nationality": { "male": "neozelandês", "female": "neozelandesa" }
+  },
+  "FJ": { "country": "Fiji", "nationality": { "male": "fijiano", "female": "fijiana" } },
+  "TL": { "country": "Timor-Leste", "nationality": { "male": "timorense", "female": "timorense" } },
+  "MO": { "country": "Macau", "nationality": { "male": "macaense", "female": "macaense" } },
+  "TW": { "country": "Taiwan", "nationality": { "male": "taiwanês", "female": "taiwanesa" } },
+  "YE": { "country": "Iêmen", "nationality": { "male": "iemenita", "female": "iemenita" } },
+  "UZ": { "country": "Uzbequistão", "nationality": { "male": "uzbeque", "female": "uzbeque" } },
+  "KZ": { "country": "Cazaquistão", "nationality": { "male": "cazaque", "female": "cazaque" } },
+  "AZ": {
+    "country": "Azerbaijão",
+    "nationality": { "male": "azerbaijano", "female": "azerbaijana" }
+  },
+  "GE": { "country": "Geórgia", "nationality": { "male": "georgiano", "female": "georgiana" } },
+  "AM": { "country": "Armênia", "nationality": { "male": "armênio", "female": "armênia" } },
+  "BY": { "country": "Belarus", "nationality": { "male": "bielorrusso", "female": "bielorrussa" } },
+  "MD": { "country": "Moldávia", "nationality": { "male": "moldávio", "female": "moldava" } },
+  "MN": { "country": "Mongólia", "nationality": { "male": "mongol", "female": "mongol" } },
+  "NP": { "country": "Nepal", "nationality": { "male": "nepalês", "female": "nepalesa" } },
+  "MM": { "country": "Mianmar", "nationality": { "male": "birmanês", "female": "birmanesa" } },
+  "KH": { "country": "Camboja", "nationality": { "male": "cambojano", "female": "cambojana" } },
+  "LA": { "country": "Laos", "nationality": { "male": "laosiano", "female": "laosiana" } },
+  "AF": { "country": "Afeganistão", "nationality": { "male": "afegão", "female": "afegã" } },
+  "QA": { "country": "Catar", "nationality": { "male": "catariano", "female": "catariana" } },
+  "KW": { "country": "Kuwait", "nationality": { "male": "kuwaitiano", "female": "kuwaitiana" } },
+  "BH": { "country": "Bahrein", "nationality": { "male": "bareinita", "female": "bareinita" } },
+  "OM": { "country": "Omã", "nationality": { "male": "omani", "female": "omani" } },
+  "LY": { "country": "Líbia", "nationality": { "male": "líbio", "female": "líbia" } },
+  "SD": { "country": "Sudão", "nationality": { "male": "sudanês", "female": "sudanesa" } },
+  "VA": { "country": "Vaticano", "nationality": { "male": "vaticano", "female": "vaticana" } }
+}

@@ -1,0 +1,49 @@
+name: Sync upstream dataset
+
+# Verifica alterações no mledoze/countries, recompila o dataset, valida e abre um PR.
+# NUNCA faz auto-merge — mudanças de dados são revisadas manualmente.
+#
+# Para habilitar a verificação periódica, descomente o bloco `schedule`.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 1 * *' # 1º dia do mês, 06:00 UTC
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - run: npm ci
+
+      - name: Sync + rebuild + validate
+        run: |
+          npm run sync:countries
+          npm run build:data
+          npm run validate:data
+          npm test
+
+      - name: Open pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: chore/sync-upstream
+          title: 'data: sync upstream mledoze/countries'
+          commit-message: 'data: sync upstream mledoze/countries'
+          body: |
+            Sincronização automática do dataset upstream.
+
+            Revise as diferenças em `data/nationalities.json` e verifique se novos
+            territórios precisam de curadoria em `data/pt-BR.json` (ver `meta.unreviewed`).
+          labels: dataset
+          delete-branch: true

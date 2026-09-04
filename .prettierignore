@@ -1,0 +1,9 @@
+node_modules
+.wrangler
+coverage
+dist
+data/upstream
+data/nationalities.json
+public/v1/nationalities.json
+package-lock.json
+CHANGELOG.md

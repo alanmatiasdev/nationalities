@@ -1,0 +1,39 @@
+{
+  "name": "nationalities",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "API pública de países, códigos ISO e nacionalidades/gentílicos em português do Brasil.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "typecheck": "tsc -p tsconfig.json && tsc -p tsconfig.node.json",
+    "sync:countries": "tsx scripts/sync-countries.ts",
+    "build:data": "tsx scripts/build-data.ts",
+    "validate:data": "tsx scripts/validate-dataset.ts"
+  },
+  "dependencies": {
+    "hono": "^4.6.14"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241218.0",
+    "@eslint/js": "^9.17.0",
+    "@types/node": "^22.20.1",
+    "eslint": "^9.17.0",
+    "prettier": "^3.4.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.18.1",
+    "vitest": "^2.1.8",
+    "wrangler": "^3.99.0"
+  }
+}

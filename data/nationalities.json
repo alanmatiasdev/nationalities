@@ -1,0 +1,5131 @@
+{
+  "meta": {
+    "total": 250,
+    "version": "2026-09-04",
+    "hash": "1c28d30a9613cd0318d42787175512ce39b11cc29635b88d46ea9f6a8ec93f7e",
+    "source": {
+      "repository": "mledoze/countries",
+      "ref": "c8015eebdd94c533358406b0d709f441389e1f2e"
+    },
+    "unreviewed": 117
+  },
+  "data": [
+    {
+      "code": "AD",
+      "iso3": "AND",
+      "numericCode": "020",
+      "country": {
+        "pt-BR": "Andorra",
+        "en": "Andorra"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇦🇩",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "AE",
+      "iso3": "ARE",
+      "numericCode": "784",
+      "country": {
+        "pt-BR": "Emirados Árabes Unidos",
+        "en": "United Arab Emirates"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "emiradense",
+          "female": "emiradense"
+        }
+      },
+      "flag": "🇦🇪",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "AF",
+      "iso3": "AFG",
+      "numericCode": "004",
+      "country": {
+        "pt-BR": "Afeganistão",
+        "en": "Afghanistan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "afegão",
+          "female": "afegã"
+        }
+      },
+      "flag": "🇦🇫",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "AG",
+      "iso3": "ATG",
+      "numericCode": "028",
+      "country": {
+        "pt-BR": "Antígua e Barbuda",
+        "en": "Antigua and Barbuda"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇦🇬",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "AI",
+      "iso3": "AIA",
+      "numericCode": "660",
+      "country": {
+        "pt-BR": "Anguilla",
+        "en": "Anguilla"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇦🇮",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "AL",
+      "iso3": "ALB",
+      "numericCode": "008",
+      "country": {
+        "pt-BR": "Albânia",
+        "en": "Albania"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "albanês",
+          "female": "albanesa"
+        }
+      },
+      "flag": "🇦🇱",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "AM",
+      "iso3": "ARM",
+      "numericCode": "051",
+      "country": {
+        "pt-BR": "Armênia",
+        "en": "Armenia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "armênio",
+          "female": "armênia"
+        }
+      },
+      "flag": "🇦🇲",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "AO",
+      "iso3": "AGO",
+      "numericCode": "024",
+      "country": {
+        "pt-BR": "Angola",
+        "en": "Angola"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "angolano",
+          "female": "angolana"
+        }
+      },
+      "flag": "🇦🇴",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "AQ",
+      "iso3": "ATA",
+      "numericCode": "010",
+      "country": {
+        "pt-BR": "Antártida",
+        "en": "Antarctica"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇦🇶",
+      "region": "Antarctic",
+      "subregion": "",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "AR",
+      "iso3": "ARG",
+      "numericCode": "032",
+      "country": {
+        "pt-BR": "Argentina",
+        "en": "Argentina"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "argentino",
+          "female": "argentina"
+        }
+      },
+      "flag": "🇦🇷",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "AS",
+      "iso3": "ASM",
+      "numericCode": "016",
+      "country": {
+        "pt-BR": "Samoa Americana",
+        "en": "American Samoa"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇦🇸",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "AT",
+      "iso3": "AUT",
+      "numericCode": "040",
+      "country": {
+        "pt-BR": "Áustria",
+        "en": "Austria"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "austríaco",
+          "female": "austríaca"
+        }
+      },
+      "flag": "🇦🇹",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "AU",
+      "iso3": "AUS",
+      "numericCode": "036",
+      "country": {
+        "pt-BR": "Austrália",
+        "en": "Australia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "australiano",
+          "female": "australiana"
+        }
+      },
+      "flag": "🇦🇺",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "AW",
+      "iso3": "ABW",
+      "numericCode": "533",
+      "country": {
+        "pt-BR": "Aruba",
+        "en": "Aruba"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇦🇼",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "AX",
+      "iso3": "ALA",
+      "numericCode": "248",
+      "country": {
+        "pt-BR": "Alândia",
+        "en": "Åland Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇦🇽",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "AZ",
+      "iso3": "AZE",
+      "numericCode": "031",
+      "country": {
+        "pt-BR": "Azerbaijão",
+        "en": "Azerbaijan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "azerbaijano",
+          "female": "azerbaijana"
+        }
+      },
+      "flag": "🇦🇿",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "BA",
+      "iso3": "BIH",
+      "numericCode": "070",
+      "country": {
+        "pt-BR": "Bósnia e Herzegovina",
+        "en": "Bosnia and Herzegovina"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇧🇦",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "BB",
+      "iso3": "BRB",
+      "numericCode": "052",
+      "country": {
+        "pt-BR": "Barbados",
+        "en": "Barbados"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇧🇧",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "BD",
+      "iso3": "BGD",
+      "numericCode": "050",
+      "country": {
+        "pt-BR": "Bangladesh",
+        "en": "Bangladesh"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "bengali",
+          "female": "bengali"
+        }
+      },
+      "flag": "🇧🇩",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "BE",
+      "iso3": "BEL",
+      "numericCode": "056",
+      "country": {
+        "pt-BR": "Bélgica",
+        "en": "Belgium"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "belga",
+          "female": "belga"
+        }
+      },
+      "flag": "🇧🇪",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "BF",
+      "iso3": "BFA",
+      "numericCode": "854",
+      "country": {
+        "pt-BR": "Burkina Faso",
+        "en": "Burkina Faso"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇧🇫",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "BG",
+      "iso3": "BGR",
+      "numericCode": "100",
+      "country": {
+        "pt-BR": "Bulgária",
+        "en": "Bulgaria"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "búlgaro",
+          "female": "búlgara"
+        }
+      },
+      "flag": "🇧🇬",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "BH",
+      "iso3": "BHR",
+      "numericCode": "048",
+      "country": {
+        "pt-BR": "Bahrein",
+        "en": "Bahrain"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "bareinita",
+          "female": "bareinita"
+        }
+      },
+      "flag": "🇧🇭",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "BI",
+      "iso3": "BDI",
+      "numericCode": "108",
+      "country": {
+        "pt-BR": "Burundi",
+        "en": "Burundi"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇧🇮",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "BJ",
+      "iso3": "BEN",
+      "numericCode": "204",
+      "country": {
+        "pt-BR": "Benin",
+        "en": "Benin"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇧🇯",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "BL",
+      "iso3": "BLM",
+      "numericCode": "652",
+      "country": {
+        "pt-BR": "São Bartolomeu",
+        "en": "Saint Barthélemy"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇧🇱",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "BM",
+      "iso3": "BMU",
+      "numericCode": "060",
+      "country": {
+        "pt-BR": "Bermudas",
+        "en": "Bermuda"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇧🇲",
+      "region": "Americas",
+      "subregion": "North America",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "BN",
+      "iso3": "BRN",
+      "numericCode": "096",
+      "country": {
+        "pt-BR": "Brunei",
+        "en": "Brunei"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇧🇳",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "BO",
+      "iso3": "BOL",
+      "numericCode": "068",
+      "country": {
+        "pt-BR": "Bolívia",
+        "en": "Bolivia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "boliviano",
+          "female": "boliviana"
+        }
+      },
+      "flag": "🇧🇴",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "BQ",
+      "iso3": "BES",
+      "numericCode": "535",
+      "country": {
+        "pt-BR": "Países Baixos Caribenhos",
+        "en": "Caribbean Netherlands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "BR",
+      "iso3": "BRA",
+      "numericCode": "076",
+      "country": {
+        "pt-BR": "Brasil",
+        "en": "Brazil"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "brasileiro",
+          "female": "brasileira"
+        }
+      },
+      "flag": "🇧🇷",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "BS",
+      "iso3": "BHS",
+      "numericCode": "044",
+      "country": {
+        "pt-BR": "Bahamas",
+        "en": "Bahamas"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇧🇸",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "BT",
+      "iso3": "BTN",
+      "numericCode": "064",
+      "country": {
+        "pt-BR": "Butão",
+        "en": "Bhutan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇧🇹",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "BV",
+      "iso3": "BVT",
+      "numericCode": "074",
+      "country": {
+        "pt-BR": "Ilha Bouvet",
+        "en": "Bouvet Island"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇧🇻",
+      "region": "Antarctic",
+      "subregion": "",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "BW",
+      "iso3": "BWA",
+      "numericCode": "072",
+      "country": {
+        "pt-BR": "Botswana",
+        "en": "Botswana"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇧🇼",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "BY",
+      "iso3": "BLR",
+      "numericCode": "112",
+      "country": {
+        "pt-BR": "Belarus",
+        "en": "Belarus"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "bielorrusso",
+          "female": "bielorrussa"
+        }
+      },
+      "flag": "🇧🇾",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "BZ",
+      "iso3": "BLZ",
+      "numericCode": "084",
+      "country": {
+        "pt-BR": "Belize",
+        "en": "Belize"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "belizenho",
+          "female": "belizenha"
+        }
+      },
+      "flag": "🇧🇿",
+      "region": "Americas",
+      "subregion": "Central America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CA",
+      "iso3": "CAN",
+      "numericCode": "124",
+      "country": {
+        "pt-BR": "Canadá",
+        "en": "Canada"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "canadense",
+          "female": "canadense"
+        }
+      },
+      "flag": "🇨🇦",
+      "region": "Americas",
+      "subregion": "North America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CC",
+      "iso3": "CCK",
+      "numericCode": "166",
+      "country": {
+        "pt-BR": "Ilhas Cocos (Keeling)",
+        "en": "Cocos (Keeling) Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇨🇨",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "CD",
+      "iso3": "COD",
+      "numericCode": "180",
+      "country": {
+        "pt-BR": "República Democrática do Congo",
+        "en": "DR Congo"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "congolês",
+          "female": "congolesa"
+        }
+      },
+      "flag": "🇨🇩",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CF",
+      "iso3": "CAF",
+      "numericCode": "140",
+      "country": {
+        "pt-BR": "República Centro-Africana",
+        "en": "Central African Republic"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇨🇫",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "CG",
+      "iso3": "COG",
+      "numericCode": "178",
+      "country": {
+        "pt-BR": "Congo",
+        "en": "Congo"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇨🇬",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "CH",
+      "iso3": "CHE",
+      "numericCode": "756",
+      "country": {
+        "pt-BR": "Suíça",
+        "en": "Switzerland"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "suíço",
+          "female": "suíça"
+        }
+      },
+      "flag": "🇨🇭",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CI",
+      "iso3": "CIV",
+      "numericCode": "384",
+      "country": {
+        "pt-BR": "Costa do Marfim",
+        "en": "Ivory Coast"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "marfinense",
+          "female": "marfinense"
+        }
+      },
+      "flag": "🇨🇮",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CK",
+      "iso3": "COK",
+      "numericCode": "184",
+      "country": {
+        "pt-BR": "Ilhas Cook",
+        "en": "Cook Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇨🇰",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "CL",
+      "iso3": "CHL",
+      "numericCode": "152",
+      "country": {
+        "pt-BR": "Chile",
+        "en": "Chile"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "chileno",
+          "female": "chilena"
+        }
+      },
+      "flag": "🇨🇱",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CM",
+      "iso3": "CMR",
+      "numericCode": "120",
+      "country": {
+        "pt-BR": "Camarões",
+        "en": "Cameroon"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "camaronês",
+          "female": "camaronesa"
+        }
+      },
+      "flag": "🇨🇲",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CN",
+      "iso3": "CHN",
+      "numericCode": "156",
+      "country": {
+        "pt-BR": "China",
+        "en": "China"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "chinês",
+          "female": "chinesa"
+        }
+      },
+      "flag": "🇨🇳",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CO",
+      "iso3": "COL",
+      "numericCode": "170",
+      "country": {
+        "pt-BR": "Colômbia",
+        "en": "Colombia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "colombiano",
+          "female": "colombiana"
+        }
+      },
+      "flag": "🇨🇴",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CR",
+      "iso3": "CRI",
+      "numericCode": "188",
+      "country": {
+        "pt-BR": "Costa Rica",
+        "en": "Costa Rica"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "costarriquenho",
+          "female": "costarriquenha"
+        }
+      },
+      "flag": "🇨🇷",
+      "region": "Americas",
+      "subregion": "Central America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CU",
+      "iso3": "CUB",
+      "numericCode": "192",
+      "country": {
+        "pt-BR": "Cuba",
+        "en": "Cuba"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "cubano",
+          "female": "cubana"
+        }
+      },
+      "flag": "🇨🇺",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CV",
+      "iso3": "CPV",
+      "numericCode": "132",
+      "country": {
+        "pt-BR": "Cabo Verde",
+        "en": "Cape Verde"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "cabo-verdiano",
+          "female": "cabo-verdiana"
+        }
+      },
+      "flag": "🇨🇻",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CW",
+      "iso3": "CUW",
+      "numericCode": "531",
+      "country": {
+        "pt-BR": "ilha da Curação",
+        "en": "Curaçao"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇨🇼",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "CX",
+      "iso3": "CXR",
+      "numericCode": "162",
+      "country": {
+        "pt-BR": "Ilha do Natal",
+        "en": "Christmas Island"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇨🇽",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "CY",
+      "iso3": "CYP",
+      "numericCode": "196",
+      "country": {
+        "pt-BR": "Chipre",
+        "en": "Cyprus"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "cipriota",
+          "female": "cipriota"
+        }
+      },
+      "flag": "🇨🇾",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "CZ",
+      "iso3": "CZE",
+      "numericCode": "203",
+      "country": {
+        "pt-BR": "Tchéquia",
+        "en": "Czechia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "tcheco",
+          "female": "tcheca"
+        }
+      },
+      "flag": "🇨🇿",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "DE",
+      "iso3": "DEU",
+      "numericCode": "276",
+      "country": {
+        "pt-BR": "Alemanha",
+        "en": "Germany"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "alemão",
+          "female": "alemã"
+        }
+      },
+      "flag": "🇩🇪",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "DJ",
+      "iso3": "DJI",
+      "numericCode": "262",
+      "country": {
+        "pt-BR": "Djibouti",
+        "en": "Djibouti"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇩🇯",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "DK",
+      "iso3": "DNK",
+      "numericCode": "208",
+      "country": {
+        "pt-BR": "Dinamarca",
+        "en": "Denmark"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "dinamarquês",
+          "female": "dinamarquesa"
+        }
+      },
+      "flag": "🇩🇰",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "DM",
+      "iso3": "DMA",
+      "numericCode": "212",
+      "country": {
+        "pt-BR": "Dominica",
+        "en": "Dominica"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇩🇲",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "DO",
+      "iso3": "DOM",
+      "numericCode": "214",
+      "country": {
+        "pt-BR": "República Dominicana",
+        "en": "Dominican Republic"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "dominicano",
+          "female": "dominicana"
+        }
+      },
+      "flag": "🇩🇴",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "DZ",
+      "iso3": "DZA",
+      "numericCode": "012",
+      "country": {
+        "pt-BR": "Argélia",
+        "en": "Algeria"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "argelino",
+          "female": "argelina"
+        }
+      },
+      "flag": "🇩🇿",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "EC",
+      "iso3": "ECU",
+      "numericCode": "218",
+      "country": {
+        "pt-BR": "Equador",
+        "en": "Ecuador"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "equatoriano",
+          "female": "equatoriana"
+        }
+      },
+      "flag": "🇪🇨",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "EE",
+      "iso3": "EST",
+      "numericCode": "233",
+      "country": {
+        "pt-BR": "Estônia",
+        "en": "Estonia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "estoniano",
+          "female": "estoniana"
+        }
+      },
+      "flag": "🇪🇪",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "EG",
+      "iso3": "EGY",
+      "numericCode": "818",
+      "country": {
+        "pt-BR": "Egito",
+        "en": "Egypt"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "egípcio",
+          "female": "egípcia"
+        }
+      },
+      "flag": "🇪🇬",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "EH",
+      "iso3": "ESH",
+      "numericCode": "732",
+      "country": {
+        "pt-BR": "Saara Ocidental",
+        "en": "Western Sahara"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇪🇭",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "ER",
+      "iso3": "ERI",
+      "numericCode": "232",
+      "country": {
+        "pt-BR": "Eritreia",
+        "en": "Eritrea"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇪🇷",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "ES",
+      "iso3": "ESP",
+      "numericCode": "724",
+      "country": {
+        "pt-BR": "Espanha",
+        "en": "Spain"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "espanhol",
+          "female": "espanhola"
+        }
+      },
+      "flag": "🇪🇸",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "ET",
+      "iso3": "ETH",
+      "numericCode": "231",
+      "country": {
+        "pt-BR": "Etiópia",
+        "en": "Ethiopia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "etíope",
+          "female": "etíope"
+        }
+      },
+      "flag": "🇪🇹",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "FI",
+      "iso3": "FIN",
+      "numericCode": "246",
+      "country": {
+        "pt-BR": "Finlândia",
+        "en": "Finland"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "finlandês",
+          "female": "finlandesa"
+        }
+      },
+      "flag": "🇫🇮",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "FJ",
+      "iso3": "FJI",
+      "numericCode": "242",
+      "country": {
+        "pt-BR": "Fiji",
+        "en": "Fiji"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "fijiano",
+          "female": "fijiana"
+        }
+      },
+      "flag": "🇫🇯",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "FK",
+      "iso3": "FLK",
+      "numericCode": "238",
+      "country": {
+        "pt-BR": "Ilhas Malvinas",
+        "en": "Falkland Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇫🇰",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "FM",
+      "iso3": "FSM",
+      "numericCode": "583",
+      "country": {
+        "pt-BR": "Micronésia",
+        "en": "Micronesia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇫🇲",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "FO",
+      "iso3": "FRO",
+      "numericCode": "234",
+      "country": {
+        "pt-BR": "Ilhas Faroé",
+        "en": "Faroe Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇫🇴",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "FR",
+      "iso3": "FRA",
+      "numericCode": "250",
+      "country": {
+        "pt-BR": "França",
+        "en": "France"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "francês",
+          "female": "francesa"
+        }
+      },
+      "flag": "🇫🇷",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "GA",
+      "iso3": "GAB",
+      "numericCode": "266",
+      "country": {
+        "pt-BR": "Gabão",
+        "en": "Gabon"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇬🇦",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "GB",
+      "iso3": "GBR",
+      "numericCode": "826",
+      "country": {
+        "pt-BR": "Reino Unido",
+        "en": "United Kingdom"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "britânico",
+          "female": "britânica"
+        }
+      },
+      "flag": "🇬🇧",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "GD",
+      "iso3": "GRD",
+      "numericCode": "308",
+      "country": {
+        "pt-BR": "Granada",
+        "en": "Grenada"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇬🇩",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "GE",
+      "iso3": "GEO",
+      "numericCode": "268",
+      "country": {
+        "pt-BR": "Geórgia",
+        "en": "Georgia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "georgiano",
+          "female": "georgiana"
+        }
+      },
+      "flag": "🇬🇪",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "GF",
+      "iso3": "GUF",
+      "numericCode": "254",
+      "country": {
+        "pt-BR": "Guiana Francesa",
+        "en": "French Guiana"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇬🇫",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "GG",
+      "iso3": "GGY",
+      "numericCode": "831",
+      "country": {
+        "pt-BR": "Guernsey",
+        "en": "Guernsey"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇬🇬",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "GH",
+      "iso3": "GHA",
+      "numericCode": "288",
+      "country": {
+        "pt-BR": "Gana",
+        "en": "Ghana"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "ganês",
+          "female": "ganesa"
+        }
+      },
+      "flag": "🇬🇭",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "GI",
+      "iso3": "GIB",
+      "numericCode": "292",
+      "country": {
+        "pt-BR": "Gibraltar",
+        "en": "Gibraltar"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇬🇮",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "GL",
+      "iso3": "GRL",
+      "numericCode": "304",
+      "country": {
+        "pt-BR": "Gronelândia",
+        "en": "Greenland"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇬🇱",
+      "region": "Americas",
+      "subregion": "North America",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "GM",
+      "iso3": "GMB",
+      "numericCode": "270",
+      "country": {
+        "pt-BR": "Gâmbia",
+        "en": "Gambia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇬🇲",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "GN",
+      "iso3": "GIN",
+      "numericCode": "324",
+      "country": {
+        "pt-BR": "Guiné",
+        "en": "Guinea"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇬🇳",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "GP",
+      "iso3": "GLP",
+      "numericCode": "312",
+      "country": {
+        "pt-BR": "Guadalupe",
+        "en": "Guadeloupe"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇬🇵",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "GQ",
+      "iso3": "GNQ",
+      "numericCode": "226",
+      "country": {
+        "pt-BR": "Guiné Equatorial",
+        "en": "Equatorial Guinea"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇬🇶",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "GR",
+      "iso3": "GRC",
+      "numericCode": "300",
+      "country": {
+        "pt-BR": "Grécia",
+        "en": "Greece"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "grego",
+          "female": "grega"
+        }
+      },
+      "flag": "🇬🇷",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "GS",
+      "iso3": "SGS",
+      "numericCode": "239",
+      "country": {
+        "pt-BR": "Ilhas Geórgia do Sul e Sandwich do Sul",
+        "en": "South Georgia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇬🇸",
+      "region": "Antarctic",
+      "subregion": "",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "GT",
+      "iso3": "GTM",
+      "numericCode": "320",
+      "country": {
+        "pt-BR": "Guatemala",
+        "en": "Guatemala"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "guatemalteco",
+          "female": "guatemalteca"
+        }
+      },
+      "flag": "🇬🇹",
+      "region": "Americas",
+      "subregion": "Central America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "GU",
+      "iso3": "GUM",
+      "numericCode": "316",
+      "country": {
+        "pt-BR": "Guam",
+        "en": "Guam"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇬🇺",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "GW",
+      "iso3": "GNB",
+      "numericCode": "624",
+      "country": {
+        "pt-BR": "Guiné-Bissau",
+        "en": "Guinea-Bissau"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "guineense",
+          "female": "guineense"
+        }
+      },
+      "flag": "🇬🇼",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "GY",
+      "iso3": "GUY",
+      "numericCode": "328",
+      "country": {
+        "pt-BR": "Guiana",
+        "en": "Guyana"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "guianense",
+          "female": "guianense"
+        }
+      },
+      "flag": "🇬🇾",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "HK",
+      "iso3": "HKG",
+      "numericCode": "344",
+      "country": {
+        "pt-BR": "Hong Kong",
+        "en": "Hong Kong"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇭🇰",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "HM",
+      "iso3": "HMD",
+      "numericCode": "334",
+      "country": {
+        "pt-BR": "Ilha Heard e Ilhas McDonald",
+        "en": "Heard Island and McDonald Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇭🇲",
+      "region": "Antarctic",
+      "subregion": "",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "HN",
+      "iso3": "HND",
+      "numericCode": "340",
+      "country": {
+        "pt-BR": "Honduras",
+        "en": "Honduras"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "hondurenho",
+          "female": "hondurenha"
+        }
+      },
+      "flag": "🇭🇳",
+      "region": "Americas",
+      "subregion": "Central America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "HR",
+      "iso3": "HRV",
+      "numericCode": "191",
+      "country": {
+        "pt-BR": "Croácia",
+        "en": "Croatia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "croata",
+          "female": "croata"
+        }
+      },
+      "flag": "🇭🇷",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "HT",
+      "iso3": "HTI",
+      "numericCode": "332",
+      "country": {
+        "pt-BR": "Haiti",
+        "en": "Haiti"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "haitiano",
+          "female": "haitiana"
+        }
+      },
+      "flag": "🇭🇹",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "HU",
+      "iso3": "HUN",
+      "numericCode": "348",
+      "country": {
+        "pt-BR": "Hungria",
+        "en": "Hungary"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "húngaro",
+          "female": "húngara"
+        }
+      },
+      "flag": "🇭🇺",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "ID",
+      "iso3": "IDN",
+      "numericCode": "360",
+      "country": {
+        "pt-BR": "Indonésia",
+        "en": "Indonesia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "indonésio",
+          "female": "indonésia"
+        }
+      },
+      "flag": "🇮🇩",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "IE",
+      "iso3": "IRL",
+      "numericCode": "372",
+      "country": {
+        "pt-BR": "Irlanda",
+        "en": "Ireland"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "irlandês",
+          "female": "irlandesa"
+        }
+      },
+      "flag": "🇮🇪",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "IL",
+      "iso3": "ISR",
+      "numericCode": "376",
+      "country": {
+        "pt-BR": "Israel",
+        "en": "Israel"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "israelense",
+          "female": "israelense"
+        }
+      },
+      "flag": "🇮🇱",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "IM",
+      "iso3": "IMN",
+      "numericCode": "833",
+      "country": {
+        "pt-BR": "Ilha de Man",
+        "en": "Isle of Man"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇮🇲",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "IN",
+      "iso3": "IND",
+      "numericCode": "356",
+      "country": {
+        "pt-BR": "Índia",
+        "en": "India"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "indiano",
+          "female": "indiana"
+        }
+      },
+      "flag": "🇮🇳",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "IO",
+      "iso3": "IOT",
+      "numericCode": "086",
+      "country": {
+        "pt-BR": "Território Britânico do Oceano Índico",
+        "en": "British Indian Ocean Territory"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇮🇴",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "IQ",
+      "iso3": "IRQ",
+      "numericCode": "368",
+      "country": {
+        "pt-BR": "Iraque",
+        "en": "Iraq"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "iraquiano",
+          "female": "iraquiana"
+        }
+      },
+      "flag": "🇮🇶",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "IR",
+      "iso3": "IRN",
+      "numericCode": "364",
+      "country": {
+        "pt-BR": "Irã",
+        "en": "Iran"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "iraniano",
+          "female": "iraniana"
+        }
+      },
+      "flag": "🇮🇷",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "IS",
+      "iso3": "ISL",
+      "numericCode": "352",
+      "country": {
+        "pt-BR": "Islândia",
+        "en": "Iceland"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "islandês",
+          "female": "islandesa"
+        }
+      },
+      "flag": "🇮🇸",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "IT",
+      "iso3": "ITA",
+      "numericCode": "380",
+      "country": {
+        "pt-BR": "Itália",
+        "en": "Italy"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "italiano",
+          "female": "italiana"
+        }
+      },
+      "flag": "🇮🇹",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "JE",
+      "iso3": "JEY",
+      "numericCode": "832",
+      "country": {
+        "pt-BR": "Jersey",
+        "en": "Jersey"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇯🇪",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "JM",
+      "iso3": "JAM",
+      "numericCode": "388",
+      "country": {
+        "pt-BR": "Jamaica",
+        "en": "Jamaica"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "jamaicano",
+          "female": "jamaicana"
+        }
+      },
+      "flag": "🇯🇲",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "JO",
+      "iso3": "JOR",
+      "numericCode": "400",
+      "country": {
+        "pt-BR": "Jordânia",
+        "en": "Jordan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "jordaniano",
+          "female": "jordaniana"
+        }
+      },
+      "flag": "🇯🇴",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "JP",
+      "iso3": "JPN",
+      "numericCode": "392",
+      "country": {
+        "pt-BR": "Japão",
+        "en": "Japan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "japonês",
+          "female": "japonesa"
+        }
+      },
+      "flag": "🇯🇵",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "KE",
+      "iso3": "KEN",
+      "numericCode": "404",
+      "country": {
+        "pt-BR": "Quênia",
+        "en": "Kenya"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "queniano",
+          "female": "queniana"
+        }
+      },
+      "flag": "🇰🇪",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "KG",
+      "iso3": "KGZ",
+      "numericCode": "417",
+      "country": {
+        "pt-BR": "Quirguistão",
+        "en": "Kyrgyzstan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇰🇬",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "KH",
+      "iso3": "KHM",
+      "numericCode": "116",
+      "country": {
+        "pt-BR": "Camboja",
+        "en": "Cambodia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "cambojano",
+          "female": "cambojana"
+        }
+      },
+      "flag": "🇰🇭",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "KI",
+      "iso3": "KIR",
+      "numericCode": "296",
+      "country": {
+        "pt-BR": "Kiribati",
+        "en": "Kiribati"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇰🇮",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "KM",
+      "iso3": "COM",
+      "numericCode": "174",
+      "country": {
+        "pt-BR": "Comores",
+        "en": "Comoros"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇰🇲",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "KN",
+      "iso3": "KNA",
+      "numericCode": "659",
+      "country": {
+        "pt-BR": "São Cristóvão e Nevis",
+        "en": "Saint Kitts and Nevis"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇰🇳",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "KP",
+      "iso3": "PRK",
+      "numericCode": "408",
+      "country": {
+        "pt-BR": "Coreia do Norte",
+        "en": "North Korea"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "norte-coreano",
+          "female": "norte-coreana"
+        }
+      },
+      "flag": "🇰🇵",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "KR",
+      "iso3": "KOR",
+      "numericCode": "410",
+      "country": {
+        "pt-BR": "Coreia do Sul",
+        "en": "South Korea"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "sul-coreano",
+          "female": "sul-coreana"
+        }
+      },
+      "flag": "🇰🇷",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "KW",
+      "iso3": "KWT",
+      "numericCode": "414",
+      "country": {
+        "pt-BR": "Kuwait",
+        "en": "Kuwait"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "kuwaitiano",
+          "female": "kuwaitiana"
+        }
+      },
+      "flag": "🇰🇼",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "KY",
+      "iso3": "CYM",
+      "numericCode": "136",
+      "country": {
+        "pt-BR": "Ilhas Caimão",
+        "en": "Cayman Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇰🇾",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "KZ",
+      "iso3": "KAZ",
+      "numericCode": "398",
+      "country": {
+        "pt-BR": "Cazaquistão",
+        "en": "Kazakhstan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "cazaque",
+          "female": "cazaque"
+        }
+      },
+      "flag": "🇰🇿",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "LA",
+      "iso3": "LAO",
+      "numericCode": "418",
+      "country": {
+        "pt-BR": "Laos",
+        "en": "Laos"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "laosiano",
+          "female": "laosiana"
+        }
+      },
+      "flag": "🇱🇦",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "LB",
+      "iso3": "LBN",
+      "numericCode": "422",
+      "country": {
+        "pt-BR": "Líbano",
+        "en": "Lebanon"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "libanês",
+          "female": "libanesa"
+        }
+      },
+      "flag": "🇱🇧",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "LC",
+      "iso3": "LCA",
+      "numericCode": "662",
+      "country": {
+        "pt-BR": "Santa Lúcia",
+        "en": "Saint Lucia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇱🇨",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "LI",
+      "iso3": "LIE",
+      "numericCode": "438",
+      "country": {
+        "pt-BR": "Liechtenstein",
+        "en": "Liechtenstein"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇱🇮",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "LK",
+      "iso3": "LKA",
+      "numericCode": "144",
+      "country": {
+        "pt-BR": "Sri Lanka",
+        "en": "Sri Lanka"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "cingalês",
+          "female": "cingalesa"
+        }
+      },
+      "flag": "🇱🇰",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "LR",
+      "iso3": "LBR",
+      "numericCode": "430",
+      "country": {
+        "pt-BR": "Libéria",
+        "en": "Liberia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇱🇷",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "LS",
+      "iso3": "LSO",
+      "numericCode": "426",
+      "country": {
+        "pt-BR": "Lesoto",
+        "en": "Lesotho"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇱🇸",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "LT",
+      "iso3": "LTU",
+      "numericCode": "440",
+      "country": {
+        "pt-BR": "Lituânia",
+        "en": "Lithuania"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "lituano",
+          "female": "lituana"
+        }
+      },
+      "flag": "🇱🇹",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "LU",
+      "iso3": "LUX",
+      "numericCode": "442",
+      "country": {
+        "pt-BR": "Luxemburgo",
+        "en": "Luxembourg"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "luxemburguês",
+          "female": "luxemburguesa"
+        }
+      },
+      "flag": "🇱🇺",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "LV",
+      "iso3": "LVA",
+      "numericCode": "428",
+      "country": {
+        "pt-BR": "Letônia",
+        "en": "Latvia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "letão",
+          "female": "letã"
+        }
+      },
+      "flag": "🇱🇻",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "LY",
+      "iso3": "LBY",
+      "numericCode": "434",
+      "country": {
+        "pt-BR": "Líbia",
+        "en": "Libya"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "líbio",
+          "female": "líbia"
+        }
+      },
+      "flag": "🇱🇾",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "MA",
+      "iso3": "MAR",
+      "numericCode": "504",
+      "country": {
+        "pt-BR": "Marrocos",
+        "en": "Morocco"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "marroquino",
+          "female": "marroquina"
+        }
+      },
+      "flag": "🇲🇦",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "MC",
+      "iso3": "MCO",
+      "numericCode": "492",
+      "country": {
+        "pt-BR": "Mónaco",
+        "en": "Monaco"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇨",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "MD",
+      "iso3": "MDA",
+      "numericCode": "498",
+      "country": {
+        "pt-BR": "Moldávia",
+        "en": "Moldova"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "moldávio",
+          "female": "moldava"
+        }
+      },
+      "flag": "🇲🇩",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "ME",
+      "iso3": "MNE",
+      "numericCode": "499",
+      "country": {
+        "pt-BR": "Montenegro",
+        "en": "Montenegro"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇪",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "MF",
+      "iso3": "MAF",
+      "numericCode": "663",
+      "country": {
+        "pt-BR": "São Martinho",
+        "en": "Saint Martin"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇫",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "MG",
+      "iso3": "MDG",
+      "numericCode": "450",
+      "country": {
+        "pt-BR": "Madagáscar",
+        "en": "Madagascar"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇬",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "MH",
+      "iso3": "MHL",
+      "numericCode": "584",
+      "country": {
+        "pt-BR": "Ilhas Marshall",
+        "en": "Marshall Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇭",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "MK",
+      "iso3": "MKD",
+      "numericCode": "807",
+      "country": {
+        "pt-BR": "Macedónia do Norte",
+        "en": "North Macedonia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇰",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "ML",
+      "iso3": "MLI",
+      "numericCode": "466",
+      "country": {
+        "pt-BR": "Mali",
+        "en": "Mali"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇱",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "MM",
+      "iso3": "MMR",
+      "numericCode": "104",
+      "country": {
+        "pt-BR": "Mianmar",
+        "en": "Myanmar"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "birmanês",
+          "female": "birmanesa"
+        }
+      },
+      "flag": "🇲🇲",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "MN",
+      "iso3": "MNG",
+      "numericCode": "496",
+      "country": {
+        "pt-BR": "Mongólia",
+        "en": "Mongolia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "mongol",
+          "female": "mongol"
+        }
+      },
+      "flag": "🇲🇳",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "MO",
+      "iso3": "MAC",
+      "numericCode": "446",
+      "country": {
+        "pt-BR": "Macau",
+        "en": "Macau"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "macaense",
+          "female": "macaense"
+        }
+      },
+      "flag": "🇲🇴",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "independent": false,
+      "unMember": false
+    },
+    {
+      "code": "MP",
+      "iso3": "MNP",
+      "numericCode": "580",
+      "country": {
+        "pt-BR": "Marianas Setentrionais",
+        "en": "Northern Mariana Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇵",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "MQ",
+      "iso3": "MTQ",
+      "numericCode": "474",
+      "country": {
+        "pt-BR": "Martinica",
+        "en": "Martinique"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇶",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "MR",
+      "iso3": "MRT",
+      "numericCode": "478",
+      "country": {
+        "pt-BR": "Mauritânia",
+        "en": "Mauritania"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇷",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "MS",
+      "iso3": "MSR",
+      "numericCode": "500",
+      "country": {
+        "pt-BR": "Montserrat",
+        "en": "Montserrat"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇸",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "MT",
+      "iso3": "MLT",
+      "numericCode": "470",
+      "country": {
+        "pt-BR": "Malta",
+        "en": "Malta"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "maltês",
+          "female": "maltesa"
+        }
+      },
+      "flag": "🇲🇹",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "MU",
+      "iso3": "MUS",
+      "numericCode": "480",
+      "country": {
+        "pt-BR": "Maurício",
+        "en": "Mauritius"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇺",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "MV",
+      "iso3": "MDV",
+      "numericCode": "462",
+      "country": {
+        "pt-BR": "Maldivas",
+        "en": "Maldives"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇻",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "MW",
+      "iso3": "MWI",
+      "numericCode": "454",
+      "country": {
+        "pt-BR": "Malawi",
+        "en": "Malawi"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇲🇼",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "MX",
+      "iso3": "MEX",
+      "numericCode": "484",
+      "country": {
+        "pt-BR": "México",
+        "en": "Mexico"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "mexicano",
+          "female": "mexicana"
+        }
+      },
+      "flag": "🇲🇽",
+      "region": "Americas",
+      "subregion": "North America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "MY",
+      "iso3": "MYS",
+      "numericCode": "458",
+      "country": {
+        "pt-BR": "Malásia",
+        "en": "Malaysia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "malaio",
+          "female": "malaia"
+        }
+      },
+      "flag": "🇲🇾",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "MZ",
+      "iso3": "MOZ",
+      "numericCode": "508",
+      "country": {
+        "pt-BR": "Moçambique",
+        "en": "Mozambique"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "moçambicano",
+          "female": "moçambicana"
+        }
+      },
+      "flag": "🇲🇿",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "NA",
+      "iso3": "NAM",
+      "numericCode": "516",
+      "country": {
+        "pt-BR": "Namíbia",
+        "en": "Namibia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇳🇦",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "NC",
+      "iso3": "NCL",
+      "numericCode": "540",
+      "country": {
+        "pt-BR": "Nova Caledónia",
+        "en": "New Caledonia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇳🇨",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "NE",
+      "iso3": "NER",
+      "numericCode": "562",
+      "country": {
+        "pt-BR": "Níger",
+        "en": "Niger"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇳🇪",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "NF",
+      "iso3": "NFK",
+      "numericCode": "574",
+      "country": {
+        "pt-BR": "Ilha Norfolk",
+        "en": "Norfolk Island"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇳🇫",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "NG",
+      "iso3": "NGA",
+      "numericCode": "566",
+      "country": {
+        "pt-BR": "Nigéria",
+        "en": "Nigeria"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "nigeriano",
+          "female": "nigeriana"
+        }
+      },
+      "flag": "🇳🇬",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "NI",
+      "iso3": "NIC",
+      "numericCode": "558",
+      "country": {
+        "pt-BR": "Nicarágua",
+        "en": "Nicaragua"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "nicaraguense",
+          "female": "nicaraguense"
+        }
+      },
+      "flag": "🇳🇮",
+      "region": "Americas",
+      "subregion": "Central America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "NL",
+      "iso3": "NLD",
+      "numericCode": "528",
+      "country": {
+        "pt-BR": "Países Baixos",
+        "en": "Netherlands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "neerlandês",
+          "female": "neerlandesa"
+        }
+      },
+      "flag": "🇳🇱",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "NO",
+      "iso3": "NOR",
+      "numericCode": "578",
+      "country": {
+        "pt-BR": "Noruega",
+        "en": "Norway"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "norueguês",
+          "female": "norueguesa"
+        }
+      },
+      "flag": "🇳🇴",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "NP",
+      "iso3": "NPL",
+      "numericCode": "524",
+      "country": {
+        "pt-BR": "Nepal",
+        "en": "Nepal"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "nepalês",
+          "female": "nepalesa"
+        }
+      },
+      "flag": "🇳🇵",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "NR",
+      "iso3": "NRU",
+      "numericCode": "520",
+      "country": {
+        "pt-BR": "Nauru",
+        "en": "Nauru"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇳🇷",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "NU",
+      "iso3": "NIU",
+      "numericCode": "570",
+      "country": {
+        "pt-BR": "Niue",
+        "en": "Niue"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇳🇺",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "NZ",
+      "iso3": "NZL",
+      "numericCode": "554",
+      "country": {
+        "pt-BR": "Nova Zelândia",
+        "en": "New Zealand"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "neozelandês",
+          "female": "neozelandesa"
+        }
+      },
+      "flag": "🇳🇿",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "OM",
+      "iso3": "OMN",
+      "numericCode": "512",
+      "country": {
+        "pt-BR": "Omã",
+        "en": "Oman"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "omani",
+          "female": "omani"
+        }
+      },
+      "flag": "🇴🇲",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "PA",
+      "iso3": "PAN",
+      "numericCode": "591",
+      "country": {
+        "pt-BR": "Panamá",
+        "en": "Panama"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "panamenho",
+          "female": "panamenha"
+        }
+      },
+      "flag": "🇵🇦",
+      "region": "Americas",
+      "subregion": "Central America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "PE",
+      "iso3": "PER",
+      "numericCode": "604",
+      "country": {
+        "pt-BR": "Peru",
+        "en": "Peru"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "peruano",
+          "female": "peruana"
+        }
+      },
+      "flag": "🇵🇪",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "PF",
+      "iso3": "PYF",
+      "numericCode": "258",
+      "country": {
+        "pt-BR": "Polinésia Francesa",
+        "en": "French Polynesia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇵🇫",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "PG",
+      "iso3": "PNG",
+      "numericCode": "598",
+      "country": {
+        "pt-BR": "Papua Nova Guiné",
+        "en": "Papua New Guinea"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇵🇬",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "PH",
+      "iso3": "PHL",
+      "numericCode": "608",
+      "country": {
+        "pt-BR": "Filipinas",
+        "en": "Philippines"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "filipino",
+          "female": "filipina"
+        }
+      },
+      "flag": "🇵🇭",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "PK",
+      "iso3": "PAK",
+      "numericCode": "586",
+      "country": {
+        "pt-BR": "Paquistão",
+        "en": "Pakistan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "paquistanês",
+          "female": "paquistanesa"
+        }
+      },
+      "flag": "🇵🇰",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "PL",
+      "iso3": "POL",
+      "numericCode": "616",
+      "country": {
+        "pt-BR": "Polônia",
+        "en": "Poland"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "polonês",
+          "female": "polonesa"
+        }
+      },
+      "flag": "🇵🇱",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "PM",
+      "iso3": "SPM",
+      "numericCode": "666",
+      "country": {
+        "pt-BR": "Saint-Pierre e Miquelon",
+        "en": "Saint Pierre and Miquelon"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇵🇲",
+      "region": "Americas",
+      "subregion": "North America",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "PN",
+      "iso3": "PCN",
+      "numericCode": "612",
+      "country": {
+        "pt-BR": "Ilhas Pitcairn",
+        "en": "Pitcairn Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇵🇳",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "PR",
+      "iso3": "PRI",
+      "numericCode": "630",
+      "country": {
+        "pt-BR": "Porto Rico",
+        "en": "Puerto Rico"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇵🇷",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "PS",
+      "iso3": "PSE",
+      "numericCode": "275",
+      "country": {
+        "pt-BR": "Palestina",
+        "en": "Palestine"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇵🇸",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "PT",
+      "iso3": "PRT",
+      "numericCode": "620",
+      "country": {
+        "pt-BR": "Portugal",
+        "en": "Portugal"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "português",
+          "female": "portuguesa"
+        }
+      },
+      "flag": "🇵🇹",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "PW",
+      "iso3": "PLW",
+      "numericCode": "585",
+      "country": {
+        "pt-BR": "Palau",
+        "en": "Palau"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇵🇼",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "PY",
+      "iso3": "PRY",
+      "numericCode": "600",
+      "country": {
+        "pt-BR": "Paraguai",
+        "en": "Paraguay"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "paraguaio",
+          "female": "paraguaia"
+        }
+      },
+      "flag": "🇵🇾",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "QA",
+      "iso3": "QAT",
+      "numericCode": "634",
+      "country": {
+        "pt-BR": "Catar",
+        "en": "Qatar"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "catariano",
+          "female": "catariana"
+        }
+      },
+      "flag": "🇶🇦",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "RE",
+      "iso3": "REU",
+      "numericCode": "638",
+      "country": {
+        "pt-BR": "Reunião",
+        "en": "Réunion"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇷🇪",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "RO",
+      "iso3": "ROU",
+      "numericCode": "642",
+      "country": {
+        "pt-BR": "Romênia",
+        "en": "Romania"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "romeno",
+          "female": "romena"
+        }
+      },
+      "flag": "🇷🇴",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "RS",
+      "iso3": "SRB",
+      "numericCode": "688",
+      "country": {
+        "pt-BR": "Sérvia",
+        "en": "Serbia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "sérvio",
+          "female": "sérvia"
+        }
+      },
+      "flag": "🇷🇸",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "RU",
+      "iso3": "RUS",
+      "numericCode": "643",
+      "country": {
+        "pt-BR": "Rússia",
+        "en": "Russia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "russo",
+          "female": "russa"
+        }
+      },
+      "flag": "🇷🇺",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "RW",
+      "iso3": "RWA",
+      "numericCode": "646",
+      "country": {
+        "pt-BR": "Ruanda",
+        "en": "Rwanda"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇷🇼",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "SA",
+      "iso3": "SAU",
+      "numericCode": "682",
+      "country": {
+        "pt-BR": "Arábia Saudita",
+        "en": "Saudi Arabia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "saudita",
+          "female": "saudita"
+        }
+      },
+      "flag": "🇸🇦",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "SB",
+      "iso3": "SLB",
+      "numericCode": "090",
+      "country": {
+        "pt-BR": "Ilhas Salomão",
+        "en": "Solomon Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇸🇧",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "SC",
+      "iso3": "SYC",
+      "numericCode": "690",
+      "country": {
+        "pt-BR": "Seicheles",
+        "en": "Seychelles"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇸🇨",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "SD",
+      "iso3": "SDN",
+      "numericCode": "729",
+      "country": {
+        "pt-BR": "Sudão",
+        "en": "Sudan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "sudanês",
+          "female": "sudanesa"
+        }
+      },
+      "flag": "🇸🇩",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "SE",
+      "iso3": "SWE",
+      "numericCode": "752",
+      "country": {
+        "pt-BR": "Suécia",
+        "en": "Sweden"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "sueco",
+          "female": "sueca"
+        }
+      },
+      "flag": "🇸🇪",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "SG",
+      "iso3": "SGP",
+      "numericCode": "702",
+      "country": {
+        "pt-BR": "Singapura",
+        "en": "Singapore"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "singapuriano",
+          "female": "singapuriana"
+        }
+      },
+      "flag": "🇸🇬",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "SH",
+      "iso3": "SHN",
+      "numericCode": "654",
+      "country": {
+        "pt-BR": "Santa Helena, Ascensão e Tristão da Cunha",
+        "en": "Saint Helena, Ascension and Tristan da Cunha"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇸🇭",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "SI",
+      "iso3": "SVN",
+      "numericCode": "705",
+      "country": {
+        "pt-BR": "Eslovênia",
+        "en": "Slovenia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "esloveno",
+          "female": "eslovena"
+        }
+      },
+      "flag": "🇸🇮",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "SJ",
+      "iso3": "SJM",
+      "numericCode": "744",
+      "country": {
+        "pt-BR": "Ilhas Svalbard e Jan Mayen",
+        "en": "Svalbard and Jan Mayen"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇸🇯",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "SK",
+      "iso3": "SVK",
+      "numericCode": "703",
+      "country": {
+        "pt-BR": "Eslováquia",
+        "en": "Slovakia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "eslovaco",
+          "female": "eslovaca"
+        }
+      },
+      "flag": "🇸🇰",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "SL",
+      "iso3": "SLE",
+      "numericCode": "694",
+      "country": {
+        "pt-BR": "Serra Leoa",
+        "en": "Sierra Leone"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇸🇱",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "SM",
+      "iso3": "SMR",
+      "numericCode": "674",
+      "country": {
+        "pt-BR": "San Marino",
+        "en": "San Marino"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇸🇲",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "SN",
+      "iso3": "SEN",
+      "numericCode": "686",
+      "country": {
+        "pt-BR": "Senegal",
+        "en": "Senegal"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "senegalês",
+          "female": "senegalesa"
+        }
+      },
+      "flag": "🇸🇳",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "SO",
+      "iso3": "SOM",
+      "numericCode": "706",
+      "country": {
+        "pt-BR": "Somália",
+        "en": "Somalia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇸🇴",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "SR",
+      "iso3": "SUR",
+      "numericCode": "740",
+      "country": {
+        "pt-BR": "Suriname",
+        "en": "Suriname"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "surinamês",
+          "female": "surinamesa"
+        }
+      },
+      "flag": "🇸🇷",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "SS",
+      "iso3": "SSD",
+      "numericCode": "728",
+      "country": {
+        "pt-BR": "Sudão do Sul",
+        "en": "South Sudan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇸🇸",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "ST",
+      "iso3": "STP",
+      "numericCode": "678",
+      "country": {
+        "pt-BR": "São Tomé e Príncipe",
+        "en": "São Tomé and Príncipe"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "santomense",
+          "female": "santomense"
+        }
+      },
+      "flag": "🇸🇹",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "SV",
+      "iso3": "SLV",
+      "numericCode": "222",
+      "country": {
+        "pt-BR": "El Salvador",
+        "en": "El Salvador"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "salvadorenho",
+          "female": "salvadorenha"
+        }
+      },
+      "flag": "🇸🇻",
+      "region": "Americas",
+      "subregion": "Central America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "SX",
+      "iso3": "SXM",
+      "numericCode": "534",
+      "country": {
+        "pt-BR": "São Martinho",
+        "en": "Sint Maarten"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇸🇽",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "SY",
+      "iso3": "SYR",
+      "numericCode": "760",
+      "country": {
+        "pt-BR": "Síria",
+        "en": "Syria"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "sírio",
+          "female": "síria"
+        }
+      },
+      "flag": "🇸🇾",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "SZ",
+      "iso3": "SWZ",
+      "numericCode": "748",
+      "country": {
+        "pt-BR": "Essuatíni",
+        "en": "Eswatini"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇸🇿",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "TC",
+      "iso3": "TCA",
+      "numericCode": "796",
+      "country": {
+        "pt-BR": "Ilhas Turks e Caicos",
+        "en": "Turks and Caicos Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇹🇨",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "TD",
+      "iso3": "TCD",
+      "numericCode": "148",
+      "country": {
+        "pt-BR": "Chade",
+        "en": "Chad"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇹🇩",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "TF",
+      "iso3": "ATF",
+      "numericCode": "260",
+      "country": {
+        "pt-BR": "Terras Austrais e Antárticas Francesas",
+        "en": "French Southern and Antarctic Lands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇹🇫",
+      "region": "Antarctic",
+      "subregion": "",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "TG",
+      "iso3": "TGO",
+      "numericCode": "768",
+      "country": {
+        "pt-BR": "Togo",
+        "en": "Togo"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇹🇬",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "TH",
+      "iso3": "THA",
+      "numericCode": "764",
+      "country": {
+        "pt-BR": "Tailândia",
+        "en": "Thailand"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "tailandês",
+          "female": "tailandesa"
+        }
+      },
+      "flag": "🇹🇭",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "TJ",
+      "iso3": "TJK",
+      "numericCode": "762",
+      "country": {
+        "pt-BR": "Tajiquistão",
+        "en": "Tajikistan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇹🇯",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "TK",
+      "iso3": "TKL",
+      "numericCode": "772",
+      "country": {
+        "pt-BR": "Tokelau",
+        "en": "Tokelau"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇹🇰",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "TL",
+      "iso3": "TLS",
+      "numericCode": "626",
+      "country": {
+        "pt-BR": "Timor-Leste",
+        "en": "Timor-Leste"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "timorense",
+          "female": "timorense"
+        }
+      },
+      "flag": "🇹🇱",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "TM",
+      "iso3": "TKM",
+      "numericCode": "795",
+      "country": {
+        "pt-BR": "Turquemenistão",
+        "en": "Turkmenistan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇹🇲",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "TN",
+      "iso3": "TUN",
+      "numericCode": "788",
+      "country": {
+        "pt-BR": "Tunísia",
+        "en": "Tunisia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "tunisiano",
+          "female": "tunisiana"
+        }
+      },
+      "flag": "🇹🇳",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "TO",
+      "iso3": "TON",
+      "numericCode": "776",
+      "country": {
+        "pt-BR": "Tonga",
+        "en": "Tonga"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇹🇴",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "TR",
+      "iso3": "TUR",
+      "numericCode": "792",
+      "country": {
+        "pt-BR": "Turquia",
+        "en": "Türkiye"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "turco",
+          "female": "turca"
+        }
+      },
+      "flag": "🇹🇷",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "TT",
+      "iso3": "TTO",
+      "numericCode": "780",
+      "country": {
+        "pt-BR": "Trinidade e Tobago",
+        "en": "Trinidad and Tobago"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇹🇹",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "TV",
+      "iso3": "TUV",
+      "numericCode": "798",
+      "country": {
+        "pt-BR": "Tuvalu",
+        "en": "Tuvalu"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇹🇻",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "TW",
+      "iso3": "TWN",
+      "numericCode": "158",
+      "country": {
+        "pt-BR": "Taiwan",
+        "en": "Taiwan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "taiwanês",
+          "female": "taiwanesa"
+        }
+      },
+      "flag": "🇹🇼",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "independent": false,
+      "unMember": false
+    },
+    {
+      "code": "TZ",
+      "iso3": "TZA",
+      "numericCode": "834",
+      "country": {
+        "pt-BR": "Tanzânia",
+        "en": "Tanzania"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "tanzaniano",
+          "female": "tanzaniana"
+        }
+      },
+      "flag": "🇹🇿",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "UA",
+      "iso3": "UKR",
+      "numericCode": "804",
+      "country": {
+        "pt-BR": "Ucrânia",
+        "en": "Ukraine"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "ucraniano",
+          "female": "ucraniana"
+        }
+      },
+      "flag": "🇺🇦",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "UG",
+      "iso3": "UGA",
+      "numericCode": "800",
+      "country": {
+        "pt-BR": "Uganda",
+        "en": "Uganda"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "ugandense",
+          "female": "ugandense"
+        }
+      },
+      "flag": "🇺🇬",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "UM",
+      "iso3": "UMI",
+      "numericCode": "581",
+      "country": {
+        "pt-BR": "Ilhas Menores Distantes dos Estados Unidos",
+        "en": "United States Minor Outlying Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇺🇲",
+      "region": "Americas",
+      "subregion": "North America",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "US",
+      "iso3": "USA",
+      "numericCode": "840",
+      "country": {
+        "pt-BR": "Estados Unidos",
+        "en": "United States"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "norte-americano",
+          "female": "norte-americana"
+        }
+      },
+      "flag": "🇺🇸",
+      "region": "Americas",
+      "subregion": "North America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "UY",
+      "iso3": "URY",
+      "numericCode": "858",
+      "country": {
+        "pt-BR": "Uruguai",
+        "en": "Uruguay"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "uruguaio",
+          "female": "uruguaia"
+        }
+      },
+      "flag": "🇺🇾",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "UZ",
+      "iso3": "UZB",
+      "numericCode": "860",
+      "country": {
+        "pt-BR": "Uzbequistão",
+        "en": "Uzbekistan"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "uzbeque",
+          "female": "uzbeque"
+        }
+      },
+      "flag": "🇺🇿",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "VA",
+      "iso3": "VAT",
+      "numericCode": "336",
+      "country": {
+        "pt-BR": "Vaticano",
+        "en": "Vatican City"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "vaticano",
+          "female": "vaticana"
+        }
+      },
+      "flag": "🇻🇦",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "VC",
+      "iso3": "VCT",
+      "numericCode": "670",
+      "country": {
+        "pt-BR": "São Vincente e Granadinas",
+        "en": "Saint Vincent and the Grenadines"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇻🇨",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "VE",
+      "iso3": "VEN",
+      "numericCode": "862",
+      "country": {
+        "pt-BR": "Venezuela",
+        "en": "Venezuela"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "venezuelano",
+          "female": "venezuelana"
+        }
+      },
+      "flag": "🇻🇪",
+      "region": "Americas",
+      "subregion": "South America",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "VG",
+      "iso3": "VGB",
+      "numericCode": "092",
+      "country": {
+        "pt-BR": "Ilhas Virgens",
+        "en": "British Virgin Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇻🇬",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "VI",
+      "iso3": "VIR",
+      "numericCode": "850",
+      "country": {
+        "pt-BR": "Ilhas Virgens dos Estados Unidos",
+        "en": "United States Virgin Islands"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇻🇮",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "VN",
+      "iso3": "VNM",
+      "numericCode": "704",
+      "country": {
+        "pt-BR": "Vietnã",
+        "en": "Vietnam"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "vietnamita",
+          "female": "vietnamita"
+        }
+      },
+      "flag": "🇻🇳",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "VU",
+      "iso3": "VUT",
+      "numericCode": "548",
+      "country": {
+        "pt-BR": "Vanuatu",
+        "en": "Vanuatu"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇻🇺",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "WF",
+      "iso3": "WLF",
+      "numericCode": "876",
+      "country": {
+        "pt-BR": "Wallis e Futuna",
+        "en": "Wallis and Futuna"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇼🇫",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "WS",
+      "iso3": "WSM",
+      "numericCode": "882",
+      "country": {
+        "pt-BR": "Samoa",
+        "en": "Samoa"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇼🇸",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "independent": true,
+      "unMember": true,
+      "needsReview": true
+    },
+    {
+      "code": "XK",
+      "iso3": "UNK",
+      "numericCode": null,
+      "country": {
+        "pt-BR": "Kosovo",
+        "en": "Kosovo"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇽🇰",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "independent": null,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "YE",
+      "iso3": "YEM",
+      "numericCode": "887",
+      "country": {
+        "pt-BR": "Iêmen",
+        "en": "Yemen"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "iemenita",
+          "female": "iemenita"
+        }
+      },
+      "flag": "🇾🇪",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "YT",
+      "iso3": "MYT",
+      "numericCode": "175",
+      "country": {
+        "pt-BR": "Mayotte",
+        "en": "Mayotte"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "",
+          "female": ""
+        }
+      },
+      "flag": "🇾🇹",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": false,
+      "unMember": false,
+      "needsReview": true
+    },
+    {
+      "code": "ZA",
+      "iso3": "ZAF",
+      "numericCode": "710",
+      "country": {
+        "pt-BR": "África do Sul",
+        "en": "South Africa"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "sul-africano",
+          "female": "sul-africana"
+        }
+      },
+      "flag": "🇿🇦",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "ZM",
+      "iso3": "ZMB",
+      "numericCode": "894",
+      "country": {
+        "pt-BR": "Zâmbia",
+        "en": "Zambia"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "zambiano",
+          "female": "zambiana"
+        }
+      },
+      "flag": "🇿🇲",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true
+    },
+    {
+      "code": "ZW",
+      "iso3": "ZWE",
+      "numericCode": "716",
+      "country": {
+        "pt-BR": "Zimbábue",
+        "en": "Zimbabwe"
+      },
+      "nationality": {
+        "pt-BR": {
+          "male": "zimbabuano",
+          "female": "zimbabuana"
+        }
+      },
+      "flag": "🇿🇼",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "independent": true,
+      "unMember": true
+    }
+  ]
+}
