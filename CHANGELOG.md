@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.2](https://github.com/alanmatiasdev/nationalities/compare/v0.1.1...v0.1.2) (2026-09-04)
+
+
+### Bug Fixes
+
+* alinha @cloudflare/workers-types com o peer do wrangler v4 ([7064355](https://github.com/alanmatiasdev/nationalities/commit/7064355f3ae9217bd427244cf967cc3fff94f10a))
+
+
+### Dependencies
+
+* atualiza wrangler para v4 ([4aba3f2](https://github.com/alanmatiasdev/nationalities/commit/4aba3f2c5668bb187e605533a5ae0d60bf9f1b1b))
+
 ## [0.1.1](https://github.com/alanmatiasdev/nationalities/compare/v0.1.0...v0.1.1) (2026-09-04)
 
 
