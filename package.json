@@ -5,6 +5,15 @@
   "type": "module",
   "description": "API pública de países, códigos ISO e nacionalidades/gentílicos em português do Brasil.",
   "license": "MIT",
+  "author": "Alan Matias <me@alanmatias.dev>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanmatiasdev/nationalities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alanmatiasdev/nationalities/issues"
+  },
+  "homepage": "https://github.com/alanmatiasdev/nationalities#readme",
   "engines": {
     "node": ">=22"
   },
