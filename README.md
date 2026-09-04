@@ -196,12 +196,28 @@ release**:
 A versão inicial é `v0.1.0`. Após o primeiro release, remova `"release-as": "0.1.0"`
 de `release-please-config.json`.
 
+### Permissão para o release-please abrir o PR (obrigatório uma vez)
+
+_Settings → Actions → General → Workflow permissions:_
+
+- **Read and write permissions**
+- marcar **Allow GitHub Actions to create and approve pull requests**
+
+Sem isso o workflow falha com _"GitHub Actions is not permitted to create or
+approve pull requests"_ (a branch/commit até são criados, mas o PR não).
+
+Alternativa (ou se a organização proibir o checkbox): criar um **fine-grained PAT**
+ou GitHub App com permissão _Pull requests: write_ + _Contents: write_ e salvá-lo
+como secret `RELEASE_PLEASE_TOKEN`. O workflow o usa automaticamente quando existe —
+e isso também faz o CI rodar no próprio PR de release.
+
 ### Secrets necessários (repositório → Settings → Secrets → Actions)
 
-| Secret                  | Descrição                                                                                             |
-| ----------------------- | ----------------------------------------------------------------------------------------------------- |
-| `CLOUDFLARE_API_TOKEN`  | Token com permissão _Workers Scripts:Edit_ (+ _Workers R2_/_Account: Workers KV_ não são necessários) |
-| `CLOUDFLARE_ACCOUNT_ID` | ID da conta Cloudflare                                                                                |
+| Secret                  | Obrigatório | Descrição                                                                      |
+| ----------------------- | ----------- | ------------------------------------------------------------------------------ |
+| `CLOUDFLARE_API_TOKEN`  | sim         | Token com permissão _Workers Scripts:Edit_ (inclui upload de Static Assets)    |
+| `CLOUDFLARE_ACCOUNT_ID` | sim         | ID da conta Cloudflare                                                         |
+| `RELEASE_PLEASE_TOKEN`  | opcional    | PAT/GitHub App para o release-please abrir o PR sem depender do checkbox acima |
 
 Nenhum token é hardcoded.
 
