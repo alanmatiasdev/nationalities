@@ -1,6 +1,6 @@
 {
   "name": "nationalities",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "type": "module",
   "description": "API pública de países, códigos ISO e nacionalidades/gentílicos em português do Brasil.",
