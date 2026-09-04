@@ -22,10 +22,11 @@ Deploy acontece **somente quando o release-please publica um release**:
 
 Não há `npm publish` — a API não é distribuída como pacote.
 
-### Primeiro release (v0.1.0)
+### Versionamento
 
-- `release-please-config.json` tem `"release-as": "0.1.0"`. **Remova essa linha após
-  o primeiro release** para o versionamento automático assumir.
+- A `v0.1.0` já foi cortada (tag `v0.1.0`). O `release-as` fixo foi removido do
+  `release-please-config.json` — a partir daqui o release-please calcula a próxima
+  versão a partir dos Conventional Commits.
 - Enquanto a versão for `0.x`: `feat` incrementa patch; `feat!` / `BREAKING CHANGE`
   incrementa minor.
 
