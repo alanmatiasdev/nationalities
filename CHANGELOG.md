@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.3](https://github.com/alanmatiasdev/nationalities/compare/v0.1.2...v0.1.3) (2026-10-28)
+
+
+### Dataset
+
+* sync upstream mledoze/countries ([#4](https://github.com/alanmatiasdev/nationalities/issues/4)) ([834e5ee](https://github.com/alanmatiasdev/nationalities/commit/834e5eeaba08156c48d9b737fed23b74c83893dd))
+
+
+### Dependencies
+
+* bump the cloudflare group with 2 updates ([#17](https://github.com/alanmatiasdev/nationalities/issues/17)) ([b276980](https://github.com/alanmatiasdev/nationalities/commit/b2769805354460bc40313af6d59e10e5703df810))
+* bump the minor-and-patch group with 4 updates ([#18](https://github.com/alanmatiasdev/nationalities/issues/18)) ([52e4ead](https://github.com/alanmatiasdev/nationalities/commit/52e4ead081629600ea262b544f7d6e07f23a62cc))
+
 ## [0.1.2](https://github.com/alanmatiasdev/nationalities/compare/v0.1.1...v0.1.2) (2026-09-04)
 
 
